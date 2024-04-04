@@ -1,4 +1,4 @@
-  # welcome 👋
+<h1 align=center  # welcome 👋
 ---
 ### 🖥 About Me :
 - Full name: Phung Tan Dai Duong (aka Duonggsimp) 
