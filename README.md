@@ -1,4 +1,4 @@
-# Duonggsimp/readme
+# welcome 👋
 ---
 ### 🖥 About Me :
 - Full name: Phung Tan Dai Duong (aka Duonggsimp) 
