@@ -2,7 +2,9 @@
 ---
 ### 🖥 About Me :
 full name: Phung Tan Dai Duong (aka Duonggsimp) 
+
 tech nerd, 14yo | Vietnamese | 5'7
+
 social links: duongsimp.carrd.co
 
 ---
