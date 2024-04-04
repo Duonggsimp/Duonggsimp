@@ -1,13 +1,14 @@
-# <h1 align=center>  welcome 👋
+# <h1 align=center>  Welcome 👋
   
 ---
-### 🖥 About Me :
-- Full name: Phung Tan Dai Duong (aka Duonggsimp) 
+### 🖥 About Me:
+- 🌐 Full name: Phung Tan Dai Duong (aka Duonggsimp) 
 
-- Tech nerd, 14yo | Vietnamese | 5'7
+- 🤖 Tech nerd, 14yo | Vietnamese | 5'7
 
-- I live in Hoi An, Vietnam
+- 🌏 I live in Hoi An, Vietnam
 
+- 📐 Also design something (idk man)
 ---
 <div align="center">
   <img src="https://th.bing.com/th/id/R.6dbf3c6509b3510a1f32a1e736946269?rik=gLqYov0j3enyUA&pid=ImgRaw&r=0" width="600" height="300"/>
