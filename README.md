@@ -12,9 +12,9 @@
 </div>
 
 ---
-![Duonggsimp's Stats](https://github-readme-stats.vercel.app/api?username=Duonggsimp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+     ![Duonggsimp's Stats](https://github-readme-stats.vercel.app/api?username=Duonggsimp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Duonggsimp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duonggsimp&theme=vue-dark&hide_border=true)
+     ![Duonggsimp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duonggsimp&theme=vue-dark&hide_border=true)
 
-![Duonggsimp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duonggsimp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+     ![Duonggsimp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duonggsimp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
