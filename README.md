@@ -14,6 +14,7 @@
 
 - 📐 Also design something (idk man)
 
+- More abt me: [`here`](duongsimp.carrd.co)
 ---
 <p align="center" >
   <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=Duonggsimp&show_icons=true&hide_border=true&theme=dracula&count_private=true">
