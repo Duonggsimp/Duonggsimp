@@ -6,7 +6,7 @@
 # <h1 align=center>  Welcome 👋
 ---
 ### 🖥 About Me:
-- 🌐 Full name: Phung Tan Dai Duong (aka [`Duonggsimp`}) 
+- 🌐 Full name: Phung Tan Dai Duong (aka [`Duonggsimp`]) 
 
 - 🤖 Tech nerd, 14yo | Vietnamese | 5'7
 
