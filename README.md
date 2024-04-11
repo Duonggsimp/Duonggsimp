@@ -14,7 +14,7 @@
 
 - 📐 Also design something (idk man)
 
-- 🌟 More abt me: [`here`](https://duongsimp.carrd.co/)
+- 🌟 More abt me: [`here`](https://duongsimp.carrd.co/) and [`here`](https://gravatar.com/duonggsimp)
 ---
 <p align="center" >
   
