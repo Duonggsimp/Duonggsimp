@@ -21,5 +21,9 @@
   <img height="310" src="https://github-readme-streak-stats.herokuapp.com?user=Duonggsimp&hide_border=true&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
+---
+<div align="center">
+  <img src="(https://c.tenor.com/vTY5ksiqSLgAAAAC/komi-cant-communicate-komi-san-wa-komyushou-desu.gif)" width="763" height="346"/>
+</div>
 
 
