@@ -23,7 +23,7 @@
 
 ---
 <div align="center">
-  <img src="https://c.tenor.com/vTY5ksiqSLgAAAAC/komi-cant-communicate-komi-san-wa-komyushou-desu.gif" width="763" height="664"/>
+  <img src="https://c.tenor.com/vTY5ksiqSLgAAAAC/komi-cant-communicate-komi-san-wa-komyushou-desu.gif" width="498" height="312"/>
 </div>
 
 
