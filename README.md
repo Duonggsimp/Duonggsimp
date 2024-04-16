@@ -23,11 +23,4 @@
 
 ---
 
-# <h1 align=center>  ggwp
-
----
-<div align="center">
-  <img src="https://c.tenor.com/vTY5ksiqSLgAAAAC/komi-cant-communicate-komi-san-wa-komyushou-desu.gif" width="498" height="312"/>
-</div>
-
 
