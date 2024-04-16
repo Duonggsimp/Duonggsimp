@@ -3,7 +3,7 @@
 </div>
 
 ---
-# <h1 align=center>  Welcome 👋, I'm Duonggsimp;
+# <h1 align=center>  Welcome 👋, I'm Duonggsimp
 ---
 ### 🖥 About Me:
 - 🌐 Full name: Phung Tan Dai Duong (aka `Duonggsimp`) 
