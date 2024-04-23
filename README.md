@@ -8,7 +8,7 @@
 ### 🖥 About Me:
 - 🌐 Full name: Phung Tan Dai Duong (aka `Duonggsimp`) 
 
-- 🤖 Tech nerd, 14yo | Vietnamese | 5'7
+- 🤖 Tech nerd, 14yo  | Vietnamese | 5'7
 
 - 🌏 I live in Hoi An, Vietnam
 
